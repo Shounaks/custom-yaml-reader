@@ -1,0 +1,22 @@
+custom-errors:
+  errors:
+    errorType1:
+      errorOne:
+        errorId: 1
+        errorMessage: "I am the First Error"
+      errorTwo:
+        errorId: 2
+        errorMessage: "I am 2nd Error"
+      errorThree:
+        errorId: 3
+        errorMessage: "I am 3rd"
+        legacyErrorId: "OLD ERROR ID"
+        legacyErrorMessage: "OLD ERROR MESSAGE"
+    errorType2:
+      errorFour:
+        errorId: 4
+        errorMessage: "I am the 4th Error"
+    errorType3:
+      errorFive:
+        errorId: 5
+        errorMessage: "I am the 5th Error"
